@@ -1,4 +1,7 @@
-﻿using System;
+﻿using aulas.Entities;
+using aulas.Entities.Enums;
+using System;
+
 
 namespace aulas
 {
@@ -6,11 +9,14 @@ namespace aulas
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Order order = new Order
+            {
+                Id = 1080,
+                Moment = DateTime.Now,
+                Status = OrderStatus.PendingPayment
+            };
 
-            DateTime hora = DateTime.UtcNow;
-            Console.WriteLine("atletico mineiro melhor time do brasil caralho");
-            Console.WriteLine(hora);
+            Console.WriteLine(order);
         }
     }
 }
