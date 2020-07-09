@@ -1,0 +1,13 @@
+C:\Users\mateu\source\repos\aulas\aulas\bin\Debug\netcoreapp3.1\aulas.exe
+C:\Users\mateu\source\repos\aulas\aulas\bin\Debug\netcoreapp3.1\aulas.deps.json
+C:\Users\mateu\source\repos\aulas\aulas\bin\Debug\netcoreapp3.1\aulas.runtimeconfig.json
+C:\Users\mateu\source\repos\aulas\aulas\bin\Debug\netcoreapp3.1\aulas.runtimeconfig.dev.json
+C:\Users\mateu\source\repos\aulas\aulas\bin\Debug\netcoreapp3.1\aulas.dll
+C:\Users\mateu\source\repos\aulas\aulas\bin\Debug\netcoreapp3.1\aulas.pdb
+C:\Users\mateu\source\repos\aulas\aulas\obj\Debug\netcoreapp3.1\aulas.csprojAssemblyReference.cache
+C:\Users\mateu\source\repos\aulas\aulas\obj\Debug\netcoreapp3.1\aulas.AssemblyInfoInputs.cache
+C:\Users\mateu\source\repos\aulas\aulas\obj\Debug\netcoreapp3.1\aulas.AssemblyInfo.cs
+C:\Users\mateu\source\repos\aulas\aulas\obj\Debug\netcoreapp3.1\aulas.csproj.CoreCompileInputs.cache
+C:\Users\mateu\source\repos\aulas\aulas\obj\Debug\netcoreapp3.1\aulas.dll
+C:\Users\mateu\source\repos\aulas\aulas\obj\Debug\netcoreapp3.1\aulas.pdb
+C:\Users\mateu\source\repos\aulas\aulas\obj\Debug\netcoreapp3.1\aulas.genruntimeconfig.cache
